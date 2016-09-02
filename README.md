@@ -21,9 +21,7 @@ Overview
     |
     |- scratch/        # temporary files that can be safely deleted or lost
     |- README          # the top level description of content
-    |- study.Rmd       # executable Rmarkdown for this study, if applicable
     |- Makefile        # executable Makefile for this study, if applicable
-    |- study.Rproj     # RStudio project for this study, if applicable
     |- datapackage.json # metadata for the (input and output) data files 
 
 How to use
